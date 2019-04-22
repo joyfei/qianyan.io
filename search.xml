@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  <entry>
+    <title><![CDATA[Day01]]></title>
+    <url>%2F2019%2F04%2F22%2FDay01%2F</url>
+    <content type="text"><![CDATA[试一试这个写文章的功能 #这是一个注释 hexo server localhost:4000试一试这个是什么front-matter: source/imgs/preview/preview1.jpg]]></content>
+      <categories>
+        <category>分类名</category>
+      </categories>
+      <tags>
+        <tag>技术类</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title><![CDATA[Hello World]]></title>
+    <url>%2F2019%2F04%2F20%2Fhello-world%2F</url>
+    <content type="text"><![CDATA[Welcome to Hexo! This is your very first post. Check documentation for more info. If you get any problems when using Hexo, you can find the answer in troubleshooting or you can ask me on GitHub. Quick StartCreate a new post1$ hexo new "My New Post" More info: Writing Run server1$ hexo server More info: Server Generate static files1$ hexo generate More info: Generating Deploy to remote sites1$ hexo deploy More info: Deployment]]></content>
+  </entry>
+</search>
