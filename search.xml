@@ -3,7 +3,7 @@
   <entry>
     <title><![CDATA[Day01]]></title>
     <url>%2F2019%2F04%2F22%2FDay01%2F</url>
-    <content type="text"><![CDATA[试一试这个写文章的功能 #这是一个注释 hexo server localhost:4000试一试这个是什么front-matter: source/imgs/preview/preview1.jpg]]></content>
+    <content type="text"><![CDATA[试一试这个写文章的功能 #这是一个注释 hexo server localhost:4000 上传 hexo g -d试一试这个是什么front-matter: source/imgs/preview/preview1.jpg]]></content>
       <categories>
         <category>分类名</category>
       </categories>
