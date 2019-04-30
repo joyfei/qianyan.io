@@ -3,7 +3,7 @@
   <entry>
     <title><![CDATA[Hexo快捷键]]></title>
     <url>%2F2019%2F04%2F30%2F02%2F</url>
-    <content type="text"><![CDATA[hexo server 打开服务器hexo server –draft 预览草稿hexo publish draft newpage 将草稿发表到posthexo g hexo d 生成，部署localhost:4000 查看博客地址]]></content>
+    <content type="text"><![CDATA[hexo server 打开服务器hexo server –draft 预览草稿hexo publish draft newpage 将草稿发表到posthexo d -g 生成，部署localhost:4000 查看博客地址hexo clean 清理无用的标签，文章写作介绍1，字体介绍这是斜体 或 这也是斜体这是粗体这是加粗斜体这是删除线 2，分级标题一级标题二级标题三级标题四级标题五级标题六级标题3，超链接4,列表无序列表：写法： 无序列表项1 无序列表项2 无序列表项3 有序列表：写法：1.有序列表项12.有序列表项23.有序列表项3 5，插入图片在 Hexo 中插入图片，首先需要将图片放在 source/img/ 文件夹下，然后如下方式进行插入： 6，表格 表头1 表头2 表头3 表头4 默认左对齐 左对齐 居中对其 右对齐 默认左对齐 左对齐 居中对其 右对齐 默认左对齐 左对齐 居中对其 右对齐]]></content>
       <categories>
         <category>技术</category>
       </categories>
